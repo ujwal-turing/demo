@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551144304776",
+    "project_id": "zuelligdemo",
+    "storage_bucket": "zuelligdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551144304776:android:bc0c1a4c2c024c26b4af3d",
+        "android_client_info": {
+          "package_name": "com.zuelligdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551144304776-0pk1tuta7o3csf4kt2rst1j7s5lu1brf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjzZoDgBWHtNnv8EksZ4RsSr4v0BTpACw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551144304776-0pk1tuta7o3csf4kt2rst1j7s5lu1brf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
